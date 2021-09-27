@@ -1,0 +1,16 @@
+C:\Users\gsida\Desktop\Repo\Variable exercise\bin\Debug\net5.0\Variable exercise.exe
+C:\Users\gsida\Desktop\Repo\Variable exercise\bin\Debug\net5.0\Variable exercise.deps.json
+C:\Users\gsida\Desktop\Repo\Variable exercise\bin\Debug\net5.0\Variable exercise.runtimeconfig.json
+C:\Users\gsida\Desktop\Repo\Variable exercise\bin\Debug\net5.0\Variable exercise.runtimeconfig.dev.json
+C:\Users\gsida\Desktop\Repo\Variable exercise\bin\Debug\net5.0\Variable exercise.dll
+C:\Users\gsida\Desktop\Repo\Variable exercise\bin\Debug\net5.0\ref\Variable exercise.dll
+C:\Users\gsida\Desktop\Repo\Variable exercise\bin\Debug\net5.0\Variable exercise.pdb
+C:\Users\gsida\Desktop\Repo\Variable exercise\obj\Debug\net5.0\Variable exercise.csproj.AssemblyReference.cache
+C:\Users\gsida\Desktop\Repo\Variable exercise\obj\Debug\net5.0\Variable exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsida\Desktop\Repo\Variable exercise\obj\Debug\net5.0\Variable exercise.AssemblyInfoInputs.cache
+C:\Users\gsida\Desktop\Repo\Variable exercise\obj\Debug\net5.0\Variable exercise.AssemblyInfo.cs
+C:\Users\gsida\Desktop\Repo\Variable exercise\obj\Debug\net5.0\Variable exercise.csproj.CoreCompileInputs.cache
+C:\Users\gsida\Desktop\Repo\Variable exercise\obj\Debug\net5.0\Variable exercise.dll
+C:\Users\gsida\Desktop\Repo\Variable exercise\obj\Debug\net5.0\ref\Variable exercise.dll
+C:\Users\gsida\Desktop\Repo\Variable exercise\obj\Debug\net5.0\Variable exercise.pdb
+C:\Users\gsida\Desktop\Repo\Variable exercise\obj\Debug\net5.0\Variable exercise.genruntimeconfig.cache
